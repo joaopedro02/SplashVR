@@ -1,2 +1,2 @@
 ### A game with colors
-A puzzle game made to be played on samsung VR.
+A puzzle game developed on unity to be played on samsung VR.
